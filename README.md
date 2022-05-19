@@ -7,6 +7,7 @@ $ mkdir build
 $ cd build
 $ cmake ..
 $ make
+$ ./LinearAlgebra
 ```
 
 For `Windows` you can use IDE to build and run this app.
