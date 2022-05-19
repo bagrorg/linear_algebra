@@ -10,4 +10,4 @@ $ make
 $ ./LinearAlgebra
 ```
 
-For `Windows` you can use IDE to build and run this app.
+For `Windows` you will need to generate analog of `Unix Makefiles` and run `.exe`.
